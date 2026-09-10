@@ -6,52 +6,52 @@ tags: tag1 tag2 tag3 tag4
 
 Last updated: Sept. 9 2026
 
-    Waitress (Band)
+    - Waitress (Band)
     
-    Tally Hall & associated (Hawaii: Part II, Sketches 3D, Not A Trampoline, Cojum Dip)
+    - Tally Hall & associated (Hawaii: Part II, Sketches 3D, Not A Trampoline, Cojum Dip)
 
-    Will Wood / Will Wood and the Tapeworms
+    - Will Wood / Will Wood and the Tapeworms
 
-    Jukebox the Ghost
+    - Jukebox the Ghost
     
-    Jayden Wark
+    - Jayden Wark
 
-    Jhariah
+    - Jhariah
 
-    The Scary Jokes
+    - The Scary Jokes
 
-    Lemon Demon
+    - Lemon Demon
 
-    Jack Stauber
+    - Jack Stauber
 
-    Switchfoot
+    - Switchfoot
 
-    Shayfer James
+    - Shayfer James
 
-    I DONT KNOW HOW BUT THEY FOUND ME
+    - I DONT KNOW HOW BUT THEY FOUND ME
 
-    Dayglow
+    - Dayglow
 
-    Mother Mother
+    - Mother Mother
 
-    Glass Animals
+    - Glass Animals
 
-    Two Crows for Comfort
+    - Two Crows for Comfort
 
-    Alt/Indie rock in general
+    - Alt/Indie rock in general
 
-    Musicals
+    - Musicals
 
-        Starkid
+        - Starkid
         
-        Hadestown
+        - Hadestown
         
-        Be More Chill
+        - Be More Chill
 
-        Hamilton
+        - Hamilton
 
-        In The Heights
+        - In The Heights
 
-        The Lion King (Broadway)
+        - The Lion King (Broadway)
 
-    Film Scores
+    - Film Scores
