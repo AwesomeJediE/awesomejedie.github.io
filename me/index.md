@@ -3,4 +3,8 @@ layout: me
 title: me
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+This is a webpage owned and operated by an "AwesomeJediE," a.k.a. Emma, a.k.a. emmamatronics, a.k.a. EmmaNotEmma. I may get a little silly. Goofy, even. Witness and enjoy.
+
+## OFTEN SPOTTED IN RANDOM CORNERS OF THE INTERNET, MANY KNOW AWESOMEJEDIE AS A LOVER OF STAR WARS, KAZOOS, TALLY HALL, & CARTOONS. BUT IF YOU DIDN'T KNOW, YOU'RE ABOUT TO FIND THAT OUT!
+
+I tend to heavily nerd out about a billion things, share the random stuff I make on the internet, or help out with other projects :3
