@@ -4,8 +4,6 @@ title: "Music I Like"
 tags: Music
 ---
 
-Last updated: Sept. 9 2026
-
 - Waitress (Band)
     
 - Tally Hall & associated (Hawaii: Part II, Sketches 3D, Not A Trampoline, Cojum Dip)
