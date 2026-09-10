@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Music I Like"
-tags: tag1 tag2 tag3 tag4
+tags: Music
 ---
 
 Last updated: Sept. 9 2026
