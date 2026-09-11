@@ -1,29 +1,36 @@
-Object Shows
+---
+layout: default
+title: "Shows I Like"
+tags: Random
+---
+- Object Shows
 
-    HfjONE
+    - HfjONE
 
-    BFDI/BFB/TPOT
+    - BFDI/BFB/TPOT
 
-    Love Of The S*n
+    - Love Of The S*n
 
-Infinity Train
+- Infinity Train
 
-The Owl House
+- The Owl House
 
-Star Wars Rebels
+- Star Wars Rebels
 
-Gravity Falls
+- Gravity Falls
 
-Star Wars: The Clone Wars
+- Star Wars: The Clone Wars
 
-The Ghost and Molly McGee
+- Amphibia
 
-Amphibia
+- Andor
 
-Andor
+- Phineas & Ferb
 
-Phineas & Ferb
+- Star Wars: The Bad Batch
 
-Star Wars: The Bad Batch
+- The Mandalorian
 
-The Mandalorian
+- Maul - Shadow Lord
+
+- Camp Here & There
