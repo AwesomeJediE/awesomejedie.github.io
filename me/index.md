@@ -9,18 +9,18 @@ This is a webpage owned and operated by an "AwesomeJediE," a.k.a. Emma, a.k.a. e
 
 I tend to heavily nerd out about a billion things, share the random stuff I make on the internet, or help out with other projects :3
 
-[AwesomeJediE YouTube](https://www.youtube.com/c/AwesomeJediE)
+- [AwesomeJediE YouTube](https://www.youtube.com/c/AwesomeJediE)
 
-[emmamatronics YouTube](https://www.youtube.com/c/emmamatronics)
+- [emmamatronics YouTube](https://www.youtube.com/c/emmamatronics)
 
-[EmmaNotEmma YouTube](https://www.youtube.com/channel/UCEBAuOnV1nwBpFJ9IWSWEqA)
+- [EmmaNotEmma YouTube](https://www.youtube.com/channel/UCEBAuOnV1nwBpFJ9IWSWEqA)
 
-[Tumblr](https://awesomejedie.tumblr.com/)
+- [Tumblr](https://awesomejedie.tumblr.com/)
 
-[Bandcamp Collection](https://bandcamp.com/awesomejedie)
+- [Bandcamp Collection](https://bandcamp.com/awesomejedie)
 
-[TallyTalks.com](https://www.tallytalks.com/)
+- [TallyTalks.com](https://www.tallytalks.com/)
 
-[Instructables](https://www.instructables.com/member/AwesomeJediE)
+- [Instructables](https://www.instructables.com/member/AwesomeJediE)
 
-[Soundcloud](https://soundcloud.com/awesomejedie)
+- [Soundcloud](https://soundcloud.com/awesomejedie)
