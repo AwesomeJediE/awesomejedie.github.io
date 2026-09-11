@@ -24,3 +24,5 @@ I tend to heavily nerd out about a billion things, share the random stuff I make
 - [Instructables](https://www.instructables.com/member/AwesomeJediE)
 
 - [Soundcloud](https://soundcloud.com/awesomejedie)
+
+- [AO3](https://archiveofourown.org/users/AwesomeJediE)
