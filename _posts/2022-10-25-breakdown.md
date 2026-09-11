@@ -6,7 +6,7 @@ tags: Writing
 
 # breakdown. 
 ## an Infinity Train fanfiction by AwesomeJediE
-### Originally posted to [AO3](https://archiveofourown.org/works/42615051)
+- **Originally posted to [AO3](https://archiveofourown.org/works/42615051)**
 
 “Ryan. RYAN!”
 
