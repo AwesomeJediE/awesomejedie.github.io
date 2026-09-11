@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Music I Like"
-tags: Music
+tags: Music, Random
 ---
 
 - Waitress (Band)
