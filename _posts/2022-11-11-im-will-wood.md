@@ -3,4 +3,4 @@ layout: default
 title: "I'm Will Wood"
 tags: Art
 ---
-![Test](/assets/emmawillwood.jpg){:width="810px"}
+![Test](/assets/emmawillwood.jpg)
