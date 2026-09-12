@@ -4,6 +4,10 @@ title: "changelog"
 tags: Projects
 ---
 
+> September 11, 2026
+>
+> Added Art "file type" for pages to appear in the "file explorer"
+
 > September 10, 2026
 >
 >New theme via Github pages is ready to launch soon....
