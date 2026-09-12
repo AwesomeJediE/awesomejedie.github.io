@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Burn Pgymalion"
+title: "Burn Pygmalion"
 tags: Art
 ---
 <img src="/assets/burnamongus.jpg" alt="Among Us" width=800>
