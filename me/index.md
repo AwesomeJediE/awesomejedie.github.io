@@ -26,3 +26,30 @@ I tend to heavily nerd out about a billion things, share the random stuff I make
 - [Soundcloud](https://soundcloud.com/awesomejedie)
 
 - [AO3](https://archiveofourown.org/users/AwesomeJediE)
+
+# Changelog
+
+> September 14, 2026
+>
+> FINALLY GOT THE WEBSITE TO AWESOMEJEDIE.COM WITH SECURE HTTPS YAYYYYYY
+
+
+> September 11, 2026
+>
+> Added Art "file type" for pages to appear in the "file explorer"
+
+> September 10, 2026
+>
+>New theme via Github pages is ready to launch soon....
+
+
+
+> June 2, 2024
+> 
+> lol this needs to be updated again 
+
+
+> March 5, 2023
+> 
+> The website has been updated! Now with more complete pages and plenty of information :D
+> But don't be fooled into thinking this is complete! An Emma's work is never done, stay tuned for even more epic website updates. 
