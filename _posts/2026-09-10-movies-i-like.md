@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Movies I Like"
-tags: Random
+tags: Interests
 ---
 - Spider-Man: Into the Spider-Verse
 
