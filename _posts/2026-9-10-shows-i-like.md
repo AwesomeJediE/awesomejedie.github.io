@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Shows I Like"
-tags: Random
+tags: Interests
 ---
 - Object Shows
 
