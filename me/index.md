@@ -6,6 +6,7 @@ title: me
 This is a webpage owned and operated by an "AwesomeJediE," a.k.a. Emma, a.k.a. emmamatronics, a.k.a. EmmaNotEmma. I may get a little silly. Goofy, even. Witness and enjoy.
 - I do not give permission for machine learning ("AI") to be trained on this personal site, as indicated with the robots.txt file, nor any of my creations
 - My personal information is ALSO to be kept private from my online aliases
+
 THANKS
 
 
